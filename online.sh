@@ -1,3 +1,4 @@
+#!/bin/bash
 #  
 #  Copyright 2014 faisal oead <fafagold@gmail.com>
 #  
@@ -16,8 +17,6 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 #  
-
-#!/bin/bash
 
 wget -q --tries=2 --timeout=5 http://google.com
 
